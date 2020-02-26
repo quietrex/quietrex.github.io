@@ -4,6 +4,6 @@
 
 ![rex](assets/images/RexResume.png)
 
-**Reused template by ** [Rex](https://github.com/quietrex).
+**[Rex]**(https://quietrex.github.io/portfolio-rex/).
 
 Thank you!
