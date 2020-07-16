@@ -2,7 +2,7 @@
 
 [Know me more here](https://github.com/quietrex) &nbsp; 
 
-![rex](assets/images/RexResume.png)
+![rex](assets/images/ResumeRex.png)
 
 **[Rex]**(https://quietrex.github.io/portfolio-rex/).
 
